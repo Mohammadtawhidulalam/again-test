@@ -3,3 +3,6 @@ public class hello{
         system.out.printIn("vs code is awesome")
     }
 }
+for (int i = 0; i < max; i++) {
+    
+}
